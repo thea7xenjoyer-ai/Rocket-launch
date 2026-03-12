@@ -31,10 +31,19 @@
     position:absolute;
     left: 50%;
     bottom:20px;
-    width: 20px;
-    height: 100px;
+    width: 70px;
+    height: 150px;
     background-color:#FF69B4;
     transition: bottom 1000ms;
+    
+}
+
+.rocket img {
+    
+    left: 50%;
+    bottom:20px;
+    width: 70px;
+    height: 150px;
 }
 
 .rocket.flying {
